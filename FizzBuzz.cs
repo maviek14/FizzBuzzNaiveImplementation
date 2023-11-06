@@ -6,13 +6,18 @@ public class FizzBuzz
     {
         string result = string.Empty;
 
-        if (number % 3 == 0)
+        if(IsDivisibleBy(number, 3))
             result += "Fizz";
-        if (number % 5 == 0)
+        if (IsDivisibleBy(number, 5))
             result += "Buzz";
         if (result.Length == 0)
             result = number.ToString();
 
         return result;
+    }
+
+    private static bool IsDivisibleBy(int number, int divider)
+    {
+        return number % divider == 0;
     }
 }
