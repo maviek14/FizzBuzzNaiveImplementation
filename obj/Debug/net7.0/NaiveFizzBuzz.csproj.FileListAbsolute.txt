@@ -1,0 +1,15 @@
+D:\Talan - szkolenie\NaiveFizzBuzz\bin\Debug\net7.0\NaiveFizzBuzz.exe
+D:\Talan - szkolenie\NaiveFizzBuzz\bin\Debug\net7.0\NaiveFizzBuzz.deps.json
+D:\Talan - szkolenie\NaiveFizzBuzz\bin\Debug\net7.0\NaiveFizzBuzz.runtimeconfig.json
+D:\Talan - szkolenie\NaiveFizzBuzz\bin\Debug\net7.0\NaiveFizzBuzz.dll
+D:\Talan - szkolenie\NaiveFizzBuzz\bin\Debug\net7.0\NaiveFizzBuzz.pdb
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\NaiveFizzBuzz.csproj.AssemblyReference.cache
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\NaiveFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\NaiveFizzBuzz.AssemblyInfoInputs.cache
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\NaiveFizzBuzz.AssemblyInfo.cs
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\NaiveFizzBuzz.csproj.CoreCompileInputs.cache
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\NaiveFizzBuzz.dll
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\refint\NaiveFizzBuzz.dll
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\NaiveFizzBuzz.pdb
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\NaiveFizzBuzz.genruntimeconfig.cache
+D:\Talan - szkolenie\NaiveFizzBuzz\obj\Debug\net7.0\ref\NaiveFizzBuzz.dll
